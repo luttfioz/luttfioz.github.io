@@ -1,13 +1,13 @@
 ---
 ---
 
-@import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap);
 
 $color-pink: #FB6964;
 $color-light-pink: #FFB7B7;
 $color-blue: #1352A2;
 $color-dark-gray: #3C3C3C;
-$font-family-sans: 'Roboto', sans-serif;
+$font-family-sans: 'Noto Sans JP', sans-serif;
 
 body {
     color: $color-dark-gray;
@@ -112,7 +112,7 @@ pre {
 
 .blog-title {
     text-transform: uppercase;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .blog-title>a {
