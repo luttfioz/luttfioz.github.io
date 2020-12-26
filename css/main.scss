@@ -1,14 +1,13 @@
 ---
 ---
 
-@import "fonts/ostrich-sans.css";
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+@import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
 
 $color-pink: #FB6964;
 $color-light-pink: #FFB7B7;
 $color-blue: #1352A2;
 $color-dark-gray: #3C3C3C;
-$font-family-sans: 'Noto Sans', sans-serif;
+$font-family-sans: 'Roboto', sans-serif;
 
 body {
     color: $color-dark-gray;
@@ -113,7 +112,7 @@ pre {
 
 .blog-title {
     text-transform: uppercase;
-    font-family: 'Ostrich Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .blog-title>a {
