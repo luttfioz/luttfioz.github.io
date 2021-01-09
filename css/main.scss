@@ -1,13 +1,13 @@
 ---
 ---
 
-@import url(https://fonts.googleapis.com/css2?family=Exo+2&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap);
 
 $color-pink: #FB6964;
 $color-light-pink: #FFB7B7;
 $color-blue: #1352A2;
 $color-dark-gray: #3C3C3C;
-$font-family-sans: 'Exo 2', sans-serif;
+$font-family-sans: 'Roboto Mono', sans-serif;
 
 body {
     color: $color-dark-gray;
@@ -42,7 +42,7 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: 'Exo 2';
+    font-family: 'Roboto Mono';
     font-weight: normal;
     color: $color-dark-gray;
 }
@@ -112,7 +112,7 @@ pre {
 
 .blog-title {
     text-transform: uppercase;
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Roboto Mono', sans-serif;
 }
 
 .blog-title>a {
